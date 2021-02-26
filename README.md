@@ -7,4 +7,4 @@ Ambos fueron probados en Blender 2.93 alpha.
 Animas el bone de la base, luego seleccionas los huesos de arriba y en Pose Mode > Panel N > Tools > SJ Phaser, le das al boton de calculate. 
 
 **Wiggle Bones**:  
-Se seleccionan los de arriba se activa en el Pose Mode > Properties Panel > Bone Properties, configuras los settings y luego le damos a play, ya podemos moveer el bone de la base.
+Se seleccionan los de arriba se activa en el Pose Mode > Properties Panel > Bone Properties, configuras los settings (por ejemplo Stretching en 0) y luego le damos a play, ya podemos moveer el bone de la base.
