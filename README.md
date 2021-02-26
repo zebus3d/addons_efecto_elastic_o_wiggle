@@ -1,5 +1,6 @@
 # addons_efecto_elastic_o_wiggle
 Recopilando addons que hacen el efecto de vaivén (como para antenas o colas de animales) automaticamente con los bones.
+Ambos fueron probados en Blender 2.93 alpha.
 
 **Uso**  
 SJ Phaser:
